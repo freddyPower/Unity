@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: db12d335ca1ee4ab881e0dc3e490b713
+timeCreated: 1496693614
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm_0001
+    100002: arm_0007
+    100004: arm_0008
+    100006: arm_0009
+    100008: arm_0010
+    100010: arm_0011
+    100012: arm_0012
+    100014: arm_0013
+    100016: body0037
+    100018: Camera
+    100020: Camera.001
+    100022: cock0015
+    100024: cock0016
+    100026: Empty
+    100028: gear0038
+    100030: hub_0032
+    100032: hub_0033
+    100034: //RootNode
+    100036: Plane
+    100038: Plane.001
+    100040: radi0036
+    100042: susp0002
+    100044: susp0004
+    100046: wing0034
+    100048: wing0035
+    400000: arm_0001
+    400002: arm_0007
+    400004: arm_0008
+    400006: arm_0009
+    400008: arm_0010
+    400010: arm_0011
+    400012: arm_0012
+    400014: arm_0013
+    400016: body0037
+    400018: Camera
+    400020: Camera.001
+    400022: cock0015
+    400024: cock0016
+    400026: Empty
+    400028: gear0038
+    400030: hub_0032
+    400032: hub_0033
+    400034: //RootNode
+    400036: Plane
+    400038: Plane.001
+    400040: radi0036
+    400042: susp0002
+    400044: susp0004
+    400046: wing0034
+    400048: wing0035
+    2300000: arm_0001
+    2300002: arm_0007
+    2300004: arm_0008
+    2300006: arm_0009
+    2300008: arm_0010
+    2300010: arm_0011
+    2300012: arm_0012
+    2300014: arm_0013
+    2300016: body0037
+    2300018: cock0015
+    2300020: cock0016
+    2300022: gear0038
+    2300024: hub_0032
+    2300026: hub_0033
+    2300028: Plane
+    2300030: Plane.001
+    2300032: radi0036
+    2300034: susp0002
+    2300036: susp0004
+    2300038: wing0034
+    2300040: wing0035
+    3300000: arm_0001
+    3300002: arm_0007
+    3300004: arm_0008
+    3300006: arm_0009
+    3300008: arm_0010
+    3300010: arm_0011
+    3300012: arm_0012
+    3300014: arm_0013
+    3300016: body0037
+    3300018: cock0015
+    3300020: cock0016
+    3300022: gear0038
+    3300024: hub_0032
+    3300026: hub_0033
+    3300028: Plane
+    3300030: Plane.001
+    3300032: radi0036
+    3300034: susp0002
+    3300036: susp0004
+    3300038: wing0034
+    3300040: wing0035
+    4300000: Plane.001
+    4300002: Plane
+    4300004: gear0038
+    4300006: body0037
+    4300008: radi0036
+    4300010: wing0035
+    4300012: wing0034
+    4300014: hub_0033
+    4300016: hub_0032
+    4300018: cock0016
+    4300020: cock0015
+    4300022: arm_0013
+    4300024: arm_0012
+    4300026: arm_0011
+    4300028: arm_0010
+    4300030: arm_0009
+    4300032: arm_0008
+    4300034: arm_0007
+    4300036: susp0004
+    4300038: susp0002
+    4300040: arm_0001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
